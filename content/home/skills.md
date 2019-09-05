@@ -22,19 +22,19 @@ subtitle = ""
   
 [[feature]]
   icon = "python"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Python"
   description = ""  
   
 [[feature]]
   icon = "html5"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "HTML5"
   description = ""
   
 [[feature]]
-  icon = "fab fa-linux"
-  icon_pack = "fas"
+  icon = "linux"
+  icon_pack = "fab"
   name = "Linux"
   description = ""
 
