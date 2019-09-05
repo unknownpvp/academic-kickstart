@@ -31,5 +31,11 @@ subtitle = ""
   icon_pack = "fas"
   name = "HTML5"
   description = ""
+  
+[[feature]]
+  icon = "linux"
+  icon_pack = "fas"
+  name = "Linux"
+  description = ""
 
 +++
