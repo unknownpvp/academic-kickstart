@@ -33,7 +33,7 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "linux"
+  icon = "fab fa-linux"
   icon_pack = "fas"
   name = "Linux"
   description = ""
