@@ -18,18 +18,18 @@ subtitle = ""
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "80%"
+  description = ""
   
 [[feature]]
-  icon = "c++"
+  icon = "python"
   icon_pack = "fas"
-  name = "C++"
+  name = "Python"
   description = ""  
   
 [[feature]]
-  icon = "c"
+  icon = "html5"
   icon_pack = "fas"
-  name = "C"
+  name = "HTML5"
   description = ""
 
 +++
