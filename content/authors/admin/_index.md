@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Danny Vu is a Computer Science student at the University of Texas at Arlington.
+bio: 
 
 interests:
 - Web Development
@@ -55,4 +55,4 @@ user_groups:
 - Visitors
 ---
 
-He is interested in data mining and will graduate in May 2020
+Danny Vu is a Computer Science student at the University of Texas at Arlington. He is interested in data mining and will graduate in May 2020
