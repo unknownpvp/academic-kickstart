@@ -24,12 +24,12 @@ subtitle = ""
   icon = "c++"
   icon_pack = "fas"
   name = "C++"
-  description = "70%"  
+  description = ""  
   
 [[feature]]
   icon = "c"
   icon_pack = "fas"
   name = "C"
-  description = "90%"
+  description = ""
 
 +++
