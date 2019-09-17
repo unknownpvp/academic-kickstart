@@ -24,3 +24,8 @@
     name = "Linkedln"
     url = "https://www.linkedin.com/in/danny-vu-b84562191/"
     weight = 70
+    
+ [[main]]
+    name = "Project"
+    url = "#project"
+    weight = 70
