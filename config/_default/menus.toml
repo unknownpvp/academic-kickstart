@@ -19,3 +19,8 @@
     name = "CV"
     url = "https://drive.google.com/file/d/1wLw7seqUjZUY0sXKAqJV8yG8S7vcI18k/view?usp=sharing"
     weight = 70
+    
+ [[main]]
+    name = "Linkedln"
+    url = "https://www.linkedin.com/in/danny-vu-b84562191/"
+    weight = 70
