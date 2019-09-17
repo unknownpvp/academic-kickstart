@@ -1,10 +1,9 @@
 +++
 # Project widget.
-widget = "project"  # See https://sourcethemes.com/academic/docs/page-builder/
+
+widget = "project"  # The name of the widget that you created.
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear in.
-
-title = "Project"
+weight = 1  # Order that this section will appear in.
 
 +++
