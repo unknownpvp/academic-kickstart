@@ -81,7 +81,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "phone", icon_pack = "fab", link = "682-554-6404"},
-  {icon = "envelope", icon_pack = "fab", link = "danny.vu@mavs.uta.edu"},
+  {icon = "envelope", icon_pack = "fa", link = "danny.vu@mavs.uta.edu"}
   ]
 
 # Display a map.
