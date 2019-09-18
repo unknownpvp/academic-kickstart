@@ -20,4 +20,4 @@ Project Proposal: https://drive.google.com/open?id=1j8cNDdhofjNo76cpjlnVCoJd7rwE
 
 Sketches:
 
-![where is the image](img/img1.png)
+{{< figure library="true" src="img1.png" title="A caption" lightbox="true" >}}
