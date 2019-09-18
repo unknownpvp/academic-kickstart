@@ -14,4 +14,4 @@ header:
   image: ""
 ---
 
-Searching for the next exciting game to play? Looking through lists of games and can't find what you want to play takes alot of time and effort. With this app, a list of metacritic video game reviews will be displayed on a query search. Gamers will be able to read video game reviews and distiguish recommendations to noteworthy games.
+Searching for the next exciting game to play? Looking through lists of games and can't find what you want to play takes a lot of time and effort. With this app, a list of Metacritic video game reviews will be displayed on a query search. Gamers will be able to read video game reviews and distinguish recommendations to noteworthy games.
