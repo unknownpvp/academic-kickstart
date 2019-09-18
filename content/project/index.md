@@ -20,4 +20,8 @@ Project Proposal: https://drive.google.com/open?id=1j8cNDdhofjNo76cpjlnVCoJd7rwE
 
 Sketches:
 
-{{< figure library="true" src="img1.png" title="A caption" lightbox="true" >}}
+{{< figure library="true" src="img1.png" title="" lightbox="true" >}}
+
+{{< figure library="true" src="img2.png" title="" lightbox="true" >}}
+
+{{< figure library="true" src="img3.png" title="" lightbox="true" >}}
