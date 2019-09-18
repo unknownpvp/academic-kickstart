@@ -1,5 +1,5 @@
 ---
-title: An example title
+title: Video Game Recommender
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
@@ -14,4 +14,4 @@ header:
   image: ""
 ---
 
-Add your *content* here...
+Searching for the next exciting game to play? Looking through lists of games and can't find what you want to play takes alot of time and effort. With this app, a list of metacritic video game reviews will be displayed on a query search. Gamers will be able to read video game reviews and distiguish recommendations to noteworthy games.
