@@ -20,7 +20,7 @@ Project Proposal: https://drive.google.com/file/d/1FJ2SgPPrCt8y-Mbd20DZhBxFe59TU
 
 Sketches:
 
-{{< figure library="true" src="pic11.png" title="" lightbox="true" >}}
+{{< figure library="true" src="pic1.png" title="" lightbox="true" >}}
 
 {{< figure library="true" src="pic2.png" title="" lightbox="true" >}}
 
