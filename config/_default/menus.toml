@@ -33,4 +33,4 @@
   [[main]]
     name = "Phase 1"
     url = "phase1/"
-    weight = 70
+    weight = 80
