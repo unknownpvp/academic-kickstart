@@ -29,3 +29,8 @@
     name = "Project"
     url = "project/"
     weight = 70
+    
+  [[main]]
+    name = "Phase 1"
+    url = "phase1/"
+    weight = 70
