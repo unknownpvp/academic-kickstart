@@ -23,3 +23,11 @@ header:
 {{< figure library="true" src="idf.png" title="" lightbox="true" >}}
 
 {{< figure library="true" src="tf-idf.png" title="" lightbox="true" >}}
+
+References:
+
+https://www.freecodecamp.org/news/how-to-process-textual-data-using-tf-idf-in-python-cd2bbc0a94a3/
+
+https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089
+
+https://www.geeksforgeeks.org/tf-idf-model-for-page-ranking/
