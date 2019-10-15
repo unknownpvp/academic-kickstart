@@ -14,13 +14,20 @@ header:
   image: ""
 ---
 
+GameLab's search feature will allow the user the enter a free-text search. 
 
+The data needs to be pre-processed first by removing stop words and using lemmatization. 
+Then, an index needs to be created for our dataset. By using an inverted index, term frequency and inverse document frequency the computation weight of each word in a document can show the represenation of importance each word is in the document.
 
-
+TF: Term Frequency, measures how frequently a term occurs in a document. Documents are different in length, so the terms would appear much more times in long documents than shorter ones. Then, the term frequency is divided by the document length :
 
 {{< figure library="true" src="tf.png" title="" lightbox="true" >}}
 
+IDF: Inverse Document Frequency, measures the importance a term is. While computing TF, all terms are considered equally important. However certain terms, such as "is", "of", and "that", may appear a lot of times but have little importance, which are stop-words that are removed at data pre-processing. So we need to weigh down the frequent terms while scale up the rare ones, by computing the following:
+
 {{< figure library="true" src="idf.png" title="" lightbox="true" >}}
+
+TF-IDF: Term frequency - Inverse document frequency is a weighting scheme that assigns each term in a document a weight based on its term frequency and inverse document frequency. A high weight in tf–idf is reached by a high term frequency (in the given document) and a low document frequency of the term in the whole collection of documents. The terms with higher weight scores are considered to be more important.
 
 {{< figure library="true" src="tf-idf.png" title="" lightbox="true" >}}
 
