@@ -34,3 +34,8 @@
     name = "Phase 1"
     url = "phase1/"
     weight = 80
+    
+  [[main]]
+    name = "Phase 2"
+    url = "phase2/"
+    weight = 90  
