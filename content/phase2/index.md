@@ -1,6 +1,6 @@
 
 ---
-title: Phase 2 - Classifier
+title: Classifier
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
@@ -50,5 +50,7 @@ https://www.geeksforgeeks.org/naive-bayes-classifiers/
 https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c
 
 https://medium.com/syncedreview/applying-multinomial-naive-bayes-to-nlp-problems-a-practical-explanation-4f5271768ebf
+
+Source Code: https://github.com/unknownpvp/Gamelab
 
 
