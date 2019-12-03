@@ -52,3 +52,7 @@ https://www.freecodecamp.org/news/how-to-process-textual-data-using-tf-idf-in-py
 https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089
 
 https://www.geeksforgeeks.org/tf-idf-model-for-page-ranking/
+
+http://flask.palletsprojects.com/en/1.1.x/
+
+https://docs.python.org/3/library/pickle.html
