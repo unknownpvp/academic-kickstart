@@ -17,4 +17,14 @@ header:
 
 GameLab's classifier will allow user to input text to generate genre. 
 
+{{< figure library="true" src="bayes.png" title="" lightbox="true" >}}
+
+References:
+
+https://github.com/tungpham142/TED-Recommender
+
+https://nlp.stanford.edu/IR-book/pdf/13bayes.pdf
+
+https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
+
 
