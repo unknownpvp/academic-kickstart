@@ -56,3 +56,5 @@ https://www.geeksforgeeks.org/tf-idf-model-for-page-ranking/
 http://flask.palletsprojects.com/en/1.1.x/
 
 https://docs.python.org/3/library/pickle.html
+
+https://pandas.pydata.org/pandas-docs/stable/
