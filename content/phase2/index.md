@@ -50,7 +50,3 @@ https://www.geeksforgeeks.org/naive-bayes-classifiers/
 https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c
 
 https://medium.com/syncedreview/applying-multinomial-naive-bayes-to-nlp-problems-a-practical-explanation-4f5271768ebf
-
-Source Code: https://github.com/unknownpvp/Gamelab
-
-
