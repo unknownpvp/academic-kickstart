@@ -1,4 +1,4 @@
----
++++
 # Display name
 name: Danny Vu
 
@@ -65,6 +65,6 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
----
++++
 
 Recent graduate with a Bachelor of Science in Computer Science at the University of Texas at Arlington. Seeking full-time opportunities in Web Development or related fields.
