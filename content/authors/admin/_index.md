@@ -13,12 +13,10 @@ superuser: true
 role: Computer Science
 
 # Organizations/Affiliations
-organizations:
-- name: University of Texas at Arlington
-  url: ""
+organizations = [ { name = "The University of Texas at Arlington ", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio =
 
 interests:
 - Web Development
