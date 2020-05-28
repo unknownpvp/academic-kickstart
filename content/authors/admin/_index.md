@@ -39,11 +39,14 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:danny.vu@mavs.uta.edu".
+github:
+- icon: github
+  link: 'https://github.com/unknownpvp'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
 #   icon_pack: ai
-#   link: https://drive.google.com/file/d/1wLw7seqUjZUY0sXKAqJV8yG8S7vcI18k/view?usp=sharing
+#   link: https://drive.google.com/file/d/13FR8RIcQRP24YRRHU4M0P2vQOmrZjM_e/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
