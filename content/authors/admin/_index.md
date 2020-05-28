@@ -39,11 +39,11 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:danny.vu@mavs.uta.edu".
-github:
+social:
 - icon: github
   icon_pack: fas
   link: 'https://github.com/unknownpvp'
-linkedin:
+social:
 - icon: linkedin
   icon_pack: fas
   link: 'https://www.linkedin.com/in/danny-vu-b84562191/'
