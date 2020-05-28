@@ -22,14 +22,14 @@ bio:
 
 interests:
 - Web Development
-- Game Design
-- Information Retrieval
+- Data Science
+- Software Engineering
 
 education:
   courses:
-  - course: BSc in Computer Science
+  - course: Bachelor of Science in Computer Science
     institution: University of Texas at Arlington
-    year: 2019
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -55,4 +55,4 @@ user_groups:
 - Visitors
 ---
 
-Danny Vu is a Computer Science student at the University of Texas at Arlington. He is interested in data mining and will graduate in May 2020
+Recent graduate with a Bachelor of Science in Computer Science at the University of Texas at Arlington. Seeking full-time opportunities in Web Development.
