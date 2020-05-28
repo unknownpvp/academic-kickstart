@@ -1,16 +1,12 @@
 +++
 # Display name
-name: Danny Vu
-
-# Username (this should match the folder name)
-authors:
-- admin
+name = Danny Vu
 
 # Is this the primary user of the site?
-superuser: true
+superuser = true
 
 # Role/position
-role: Computer Science
+role = Computer Science
 
 # Organizations/Affiliations
 organizations = [ { name = "The University of Texas at Arlington ", url = "" } ]
@@ -18,16 +14,18 @@ organizations = [ { name = "The University of Texas at Arlington ", url = "" } ]
 # Short bio (displayed in user profile at end of posts)
 bio =
 
-interests:
-- Web Development
-- Data Science
-- Software Engineering
+# List (academic) interests or hobbies
+interests = [
+  "Web Development",
+  "Data Science",
+  "Software Engineering"
+]
 
-education:
-  courses:
-  - course: Bachelor of Science in Computer Science
-    institution: University of Texas at Arlington
-    year: 2020
+# List qualifications (such as academic degrees)
+[[education.courses]]
+  course = "Bachelor of Science in Computer Science"
+  institution = "The University of Texas at Arlington"
+  year = 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,13 +54,8 @@ education:
 #   link: https://drive.google.com/file/d/13FR8RIcQRP24YRRHU4M0P2vQOmrZjM_e/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-  
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+email = "dannyvu84@gmail.com"
+   
 +++
 
 Recent graduate with a Bachelor of Science in Computer Science at the University of Texas at Arlington. Seeking full-time opportunities in Web Development or related fields.
