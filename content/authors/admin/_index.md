@@ -1,12 +1,12 @@
 +++
 # Display name
-name = Danny Vu
+name = "Danny Vu"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = Computer Science
+role = "Computer Science"
 
 # Organizations/Affiliations
 organizations = [ { name = "The University of Texas at Arlington ", url = "" } ]
@@ -25,7 +25,7 @@ interests = [
 [[education.courses]]
   course = "Bachelor of Science in Computer Science"
   institution = "The University of Texas at Arlington"
-  year = 2019
+  year = 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
