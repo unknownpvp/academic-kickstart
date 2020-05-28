@@ -12,7 +12,7 @@ role = "Computer Science"
 organizations = [ { name = "The University of Texas at Arlington ", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio =
+bio = "Interested in Web Development, Data Science and Software Engineering."
 
 # List (academic) interests or hobbies
 interests = [
