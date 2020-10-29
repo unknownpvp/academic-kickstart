@@ -16,9 +16,9 @@ bio = "Interested in Software Development, Web Development and Data Science."
 
 # List (academic) interests or hobbies
 interests = [
+  "Software Development",
   "Web Development",
-  "Data Science",
-  "Software Engineering"
+  "Data Science"
 ]
 
 # List qualifications (such as academic degrees)
