@@ -27,9 +27,9 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "html"
+  icon = "html5"
   icon_pack = "fab"
-  name = "HTML"
+  name = "HTML5"
   description = ""
   
 [[feature]]
@@ -39,9 +39,9 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "css"
+  icon = "css3"
   icon_pack = "fab"
-  name = "CSS"
+  name = "CSS3"
   description = ""
 
 +++
