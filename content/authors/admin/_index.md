@@ -12,7 +12,7 @@ role = "Computer Science"
 organizations = [ { name = "The University of Texas at Arlington ", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Interested in Web Development, Data Science and Software Engineering."
+bio = "Interested in Software Development, Web Development and Data Science."
 
 # List (academic) interests or hobbies
 interests = [
@@ -58,4 +58,4 @@ email = "dannyvu84@gmail.com"
    
 +++
 
-Recent graduate with a Bachelor of Science in Computer Science at the University of Texas at Arlington. Seeking full-time opportunities in Web Development or related fields.
+Recent graduate with a Bachelor of Science in Computer Science at the University of Texas at Arlington. Seeking full-time opportunities in Software Development or related fields.
